@@ -1,0 +1,40 @@
+[
+    {
+        "picture": "clothing.jpg",
+        "title": "Stylish T-Shirt",
+        "category": "Clothing",
+        "category_bg_color": "#FF5733",
+        "card_bg_color": "#F2F2F2",
+        "text_button_bg_color": "#333",
+        "description": "A fashionable and comfortable t-shirt for everyday wear.",
+        "price": "$19.99"
+    }, {
+        "picture": "book.jpg",
+        "title": "Programming Book",
+        "category": "Education",
+        "category_bg_color": "#3498DB",
+        "card_bg_color": "#F2F2F2",
+        "text_button_bg_color": "#333",
+        "description": "A comprehensive guide to programming languages and concepts.",
+        "price": "$29.99"
+    }, {
+        "picture": "pizza.jpg",
+        "title": "Delicious Pizza",
+        "category": "Food",
+        "category_bg_color": "#27AE60",
+        "card_bg_color": "#F2F2F2",
+        "text_button_bg_color": "#333",
+        "description": "A mouthwatering pizza with your choice of toppings.",
+        "price": "$12.99"
+    }, {
+        "picture": "stethoscope.jpg",
+        "title": "Health Checkup",
+        "category": "Health",
+        "category_bg_color": "#E74C3C",
+        "card_bg_color": "#F2F2F2",
+        "text_button_bg_color": "#333",
+        "description": "A comprehensive health checkup by experienced doctors.",
+        "price": "$99.99"
+    }
+
+]
