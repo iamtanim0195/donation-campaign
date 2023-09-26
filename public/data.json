@@ -1,40 +1,126 @@
 [
     {
-        "picture": "clothing.jpg",
+        "id": 1,
+        "picture": "https://i.ibb.co/Hr7qBS3/Clothing.png",
         "title": "Stylish T-Shirt",
         "category": "Clothing",
         "category_bg_color": "#FF5733",
-        "card_bg_color": "#F2F2F2",
+        "card_bg_color": "bg-red-300",
         "text_button_bg_color": "#333",
         "description": "A fashionable and comfortable t-shirt for everyday wear.",
         "price": "$19.99"
-    }, {
-        "picture": "book.jpg",
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/zZZ3Y6B/Education.png",
         "title": "Programming Book",
         "category": "Education",
         "category_bg_color": "#3498DB",
-        "card_bg_color": "#F2F2F2",
+        "card_bg_color": "bg-blue-300",
         "text_button_bg_color": "#333",
         "description": "A comprehensive guide to programming languages and concepts.",
         "price": "$29.99"
-    }, {
-        "picture": "pizza.jpg",
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/XjSrM1H/Food.png",
         "title": "Delicious Pizza",
         "category": "Food",
         "category_bg_color": "#27AE60",
-        "card_bg_color": "#F2F2F2",
+        "card_bg_color": "bg-orange-300",
         "text_button_bg_color": "#333",
         "description": "A mouthwatering pizza with your choice of toppings.",
         "price": "$12.99"
-    }, {
-        "picture": "stethoscope.jpg",
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/6YVdfTw/Health.png",
         "title": "Health Checkup",
         "category": "Health",
         "category_bg_color": "#E74C3C",
-        "card_bg_color": "#F2F2F2",
+        "card_bg_color": "bg-green-300",
         "text_button_bg_color": "#333",
         "description": "A comprehensive health checkup by experienced doctors.",
         "price": "$99.99"
+    }, {
+        "id": 5,
+        "picture": "https://i.ibb.co/Hr7qBS3/Clothing.png",
+        "title": "Elegant Dress",
+        "category": "Clothing",
+        "category_bg_color": "#FF5733",
+        "card_bg_color": "bg-red-300",
+        "text_button_bg_color": "#333",
+        "description": "An elegant dress for special occasions.",
+        "price": "$59.99"
+    }, {
+        "id": 6,
+        "picture": "https://i.ibb.co/zZZ3Y6B/Education.png",
+        "title": "Mathematics Textbook",
+        "category": "Education",
+        "category_bg_color": "#3498DB",
+        "card_bg_color": "bg-blue-300",
+        "text_button_bg_color": "#333",
+        "description": "A comprehensive textbook for advanced mathematics.",
+        "price": "$39.99"
+    }, {
+        "id": 7,
+        "picture": "https://i.ibb.co/XjSrM1H/Food.png",
+        "title": "Burger Combo",
+        "category": "Food",
+        "category_bg_color": "#27AE60",
+        "card_bg_color": "bg-orange-300",
+        "text_button_bg_color": "#333",
+        "description": "A combo meal with a delicious burger and fries.",
+        "price": "$8.99"
+    }, {
+        "id": 8,
+        "picture": "https://i.ibb.co/6YVdfTw/Health.png",
+        "title": "Fitness Tracker",
+        "category": "Health",
+        "category_bg_color": "#E74C3C",
+        "card_bg_color": "bg-green-300",
+        "text_button_bg_color": "#333",
+        "description": "A fitness tracker to monitor your health and activity.",
+        "price": "$49.99"
+    }, {
+        "id": 9,
+        "picture": "https://i.ibb.co/Hr7qBS3/Clothing.png",
+        "title": "Casual Jeans",
+        "category": "Clothing",
+        "category_bg_color": "#FF5733",
+        "card_bg_color": "bg-red-300",
+        "text_button_bg_color": "#333",
+        "description": "Comfortable and stylish jeans for everyday wear.",
+        "price": "$29.99"
+    }, {
+        "id": 10,
+        "picture": "https://i.ibb.co/zZZ3Y6B/Education.png",
+        "title": "History Book",
+        "category": "Education",
+        "category_bg_color": "#3498DB",
+        "card_bg_color": "bg-blue-300",
+        "text_button_bg_color": "#333",
+        "description": "A fascinating history book covering various eras.",
+        "price": "$24.99"
+    }, {
+        "id": 11,
+        "picture": "https://i.ibb.co/XjSrM1H/Food.png",
+        "title": "Sushi Platter",
+        "category": "Food",
+        "category_bg_color": "#27AE60",
+        "card_bg_color": "bg-orange-300",
+        "text_button_bg_color": "#333",
+        "description": "A delicious sushi platter with a variety of rolls.",
+        "price": "$29.99"
+    }, {
+        "id": 12,
+        "picture": "https://i.ibb.co/6YVdfTw/Health.png",
+        "title": "Yoga Mat",
+        "category": "Health",
+        "category_bg_color": "#E74C3C",
+        "card_bg_color": "bg-green-300",
+        "text_button_bg_color": "#333",
+        "description": "A high-quality yoga mat for your daily practice.",
+        "price": "$19.99"
     }
-
 ]
