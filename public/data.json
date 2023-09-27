@@ -7,8 +7,8 @@
         "category_bg_color": "#FF5733",
         "card_bg_color": "bg-red-300",
         "text_button_bg_color": "#333",
-        "description": "A fashionable and comfortable t-shirt for everyday wear.",
-        "price": "$19.99"
+        "description": "A fashionable and comfortable t-shirt for everyday wear. It comes in various sizes and colors to suit your style. Made with high-quality fabric for maximum comfort and durability. Upgrade your wardrobe with this stylish t-shirt.",
+        "price": "19.99"
     },
     {
         "id": 2,
@@ -18,8 +18,8 @@
         "category_bg_color": "#3498DB",
         "card_bg_color": "bg-blue-300",
         "text_button_bg_color": "#333",
-        "description": "A comprehensive guide to programming languages and concepts.",
-        "price": "$29.99"
+        "description": "A comprehensive guide to programming languages and concepts. This book covers a wide range of topics, from basic programming principles to advanced algorithms. Whether you're a beginner or an experienced programmer, this book is a valuable resource for learning and improving your coding skills.",
+        "price": "29.99"
     },
     {
         "id": 3,
@@ -29,8 +29,8 @@
         "category_bg_color": "#27AE60",
         "card_bg_color": "bg-orange-300",
         "text_button_bg_color": "#333",
-        "description": "A mouthwatering pizza with your choice of toppings.",
-        "price": "$12.99"
+        "description": "A mouthwatering pizza with your choice of toppings. Our pizzas are made with the freshest ingredients and baked to perfection. Whether you prefer classic margherita or loaded with toppings, our delicious pizzas are sure to satisfy your cravings.",
+        "price": "12.99"
     },
     {
         "id": 4,
@@ -40,9 +40,10 @@
         "category_bg_color": "#E74C3C",
         "card_bg_color": "bg-green-300",
         "text_button_bg_color": "#333",
-        "description": "A comprehensive health checkup by experienced doctors.",
-        "price": "$99.99"
-    }, {
+        "description": "A comprehensive health checkup by experienced doctors. Our health checkup package includes a thorough examination of your physical health, blood tests, and consultation with our medical experts. Take a proactive approach to your health and schedule a checkup today.",
+        "price": "99.99"
+    },
+    {
         "id": 5,
         "picture": "https://i.ibb.co/Hr7qBS3/Clothing.png",
         "title": "Elegant Dress",
@@ -50,9 +51,10 @@
         "category_bg_color": "#FF5733",
         "card_bg_color": "bg-red-300",
         "text_button_bg_color": "#333",
-        "description": "An elegant dress for special occasions.",
-        "price": "$59.99"
-    }, {
+        "description": "An elegant dress for special occasions. This stunning dress is perfect for formal events, parties, and weddings. It features intricate details and is available in various sizes to ensure a perfect fit. Make a lasting impression with this elegant dress.",
+        "price": "59.99"
+    },
+    {
         "id": 6,
         "picture": "https://i.ibb.co/zZZ3Y6B/Education.png",
         "title": "Mathematics Textbook",
@@ -60,9 +62,10 @@
         "category_bg_color": "#3498DB",
         "card_bg_color": "bg-blue-300",
         "text_button_bg_color": "#333",
-        "description": "A comprehensive textbook for advanced mathematics.",
-        "price": "$39.99"
-    }, {
+        "description": "A comprehensive textbook for advanced mathematics. This textbook covers a wide range of mathematical concepts, from algebra to calculus. It includes practice problems and detailed explanations to help you master complex math topics.",
+        "price": "39.99"
+    },
+    {
         "id": 7,
         "picture": "https://i.ibb.co/XjSrM1H/Food.png",
         "title": "Burger Combo",
@@ -70,9 +73,10 @@
         "category_bg_color": "#27AE60",
         "card_bg_color": "bg-orange-300",
         "text_button_bg_color": "#333",
-        "description": "A combo meal with a delicious burger and fries.",
-        "price": "$8.99"
-    }, {
+        "description": "A combo meal with a delicious burger and fries. Our burger combo includes a juicy burger with your choice of toppings, a side of crispy fries, and a refreshing beverage. It's the perfect meal for satisfying your hunger.",
+        "price": "8.99"
+    },
+    {
         "id": 8,
         "picture": "https://i.ibb.co/6YVdfTw/Health.png",
         "title": "Fitness Tracker",
@@ -80,9 +84,10 @@
         "category_bg_color": "#E74C3C",
         "card_bg_color": "bg-green-300",
         "text_button_bg_color": "#333",
-        "description": "A fitness tracker to monitor your health and activity.",
-        "price": "$49.99"
-    }, {
+        "description": "A fitness tracker to monitor your health and activity. Our fitness tracker is equipped with advanced sensors to track your steps, heart rate, and sleep patterns. Stay on top of your fitness goals with this handy device.",
+        "price": "49.99"
+    },
+    {
         "id": 9,
         "picture": "https://i.ibb.co/Hr7qBS3/Clothing.png",
         "title": "Casual Jeans",
@@ -90,9 +95,10 @@
         "category_bg_color": "#FF5733",
         "card_bg_color": "bg-red-300",
         "text_button_bg_color": "#333",
-        "description": "Comfortable and stylish jeans for everyday wear.",
-        "price": "$29.99"
-    }, {
+        "description": "Comfortable and stylish jeans for everyday wear. These casual jeans are perfect for a relaxed and fashionable look. They are made from high-quality denim and designed for both comfort and style. Upgrade your wardrobe with these versatile jeans.",
+        "price": "29.99"
+    },
+    {
         "id": 10,
         "picture": "https://i.ibb.co/zZZ3Y6B/Education.png",
         "title": "History Book",
@@ -100,9 +106,10 @@
         "category_bg_color": "#3498DB",
         "card_bg_color": "bg-blue-300",
         "text_button_bg_color": "#333",
-        "description": "A fascinating history book covering various eras.",
-        "price": "$24.99"
-    }, {
+        "description": "A fascinating history book covering various eras. This book takes you on a journey through history, exploring different time periods, events, and cultures. It's an engaging and informative read for history enthusiasts.",
+        "price": "24.99"
+    },
+    {
         "id": 11,
         "picture": "https://i.ibb.co/XjSrM1H/Food.png",
         "title": "Sushi Platter",
@@ -110,9 +117,10 @@
         "category_bg_color": "#27AE60",
         "card_bg_color": "bg-orange-300",
         "text_button_bg_color": "#333",
-        "description": "A delicious sushi platter with a variety of rolls.",
-        "price": "$29.99"
-    }, {
+        "description": "A delicious sushi platter with a variety of rolls. Our sushi platter includes an assortment of sushi rolls, sashimi, and nigiri. It's the perfect choice for sushi lovers looking to enjoy a variety of flavors in one meal.",
+        "price": "29.99"
+    },
+    {
         "id": 12,
         "picture": "https://i.ibb.co/6YVdfTw/Health.png",
         "title": "Yoga Mat",
@@ -120,7 +128,7 @@
         "category_bg_color": "#E74C3C",
         "card_bg_color": "bg-green-300",
         "text_button_bg_color": "#333",
-        "description": "A high-quality yoga mat for your daily practice.",
-        "price": "$19.99"
+        "description": "A high-quality yoga mat for your daily practice. This yoga mat is designed for comfort and durability, making it ideal for yoga enthusiasts. It provides excellent grip and support during yoga sessions, helping you achieve inner peace and relaxation.",
+        "price": "19.99"
     }
 ]
