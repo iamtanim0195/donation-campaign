@@ -1,44 +1,16 @@
 import { Link, } from "react-router-dom";
-import { toast } from "react-toastify";
-import 'react-toastify/dist/ReactToastify.css';
+
 
 const DonationsCard = ({ donation }) => {
 
     const { id, picture, title, description, category, category_bg_color, card_bg_color, text_button_bg_color, } = donation || {};
 
-    const handleAddToDetails = () => {
-
-        const addedDonationArry = [];
-
-
-        const donationItem = JSON.parse(localStorage.getItem('donationItem'));
-
-        if (!donationItem) {
-            addedDonationArry.push(donation);
-            localStorage.setItem('donationItem', JSON.stringify(addedDonationArry));
-        } else {
-
-            const isExist = donationItem.find(donation => donation.id == id)
-
-            if (!isExist) {
-                addedDonationArry.push(...donationItem, donation);
-                localStorage.setItem('donationItem', JSON.stringify(addedDonationArry));
-                toast.success('Donation is successful', {
-                    position: toast.POSITION.TOP_RIGHT,
-                });
-            } else {
-                toast.error('Donation failed!', {
-                    position: toast.POSITION.TOP_RIGHT,
-                });
-            }
-
-        }
-
-    }
+    
 
     return (
         <div>
-            <Link onClick={handleAddToDetails}>
+            
+            <Link to={`/donation_details/${id}`} >
 
                 <div className="relative flex max-w-[24rem] flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
                     <div className=" relative m-0 overflow-hidden rounded-none bg-transparent bg-clip-border text-gray-700 shadow-none">
