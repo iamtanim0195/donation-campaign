@@ -6,8 +6,6 @@ const DonationsCard = ({ donation }) => {
 
     const { id, picture, title, description, category, category_bg_color, card_bg_color, text_button_bg_color, } = donation || {};
 
-
-    const bgColorClass = JSON.stringify(card_bg_color);
     const handleAddToDetails = () => {
 
         const addedDonationArry = [];
@@ -38,7 +36,6 @@ const DonationsCard = ({ donation }) => {
 
     }
 
-
     return (
         <div>
             <Link onClick={handleAddToDetails}>
@@ -51,11 +48,11 @@ const DonationsCard = ({ donation }) => {
                             alt={title}
                         />
                     </div>
-                    <div className={`p-6 ${bgColorClass}`}>
-                        <h4 className="btn ">
+                    <div className={`p-6`} style={{backgroundColor:card_bg_color}}>
+                        <h4 style={{backgroundColor:category_bg_color, color:text_button_bg_color}} className="btn ">
                             {category}
                         </h4>
-                        <p className="mt-3 block font-sans text-xl font-normal leading-relaxed text-gray-700 antialiased">
+                        <p style={{color:text_button_bg_color}} className=" mt-3 block font-sans text-xl font-normal leading-relaxed text-gray-700 antialiased">
                             {title}
                         </p>
                     </div>
